@@ -1,0 +1,8 @@
+Known Issues:
+- App cannot stay logged in
+- App takes long time to log in
+- App crashes whenever attempting to post
+- When attempting to submit, it simply clears out the imageview and edittext, when checking parse nothing has been updated
+
+Known things its supposed to do:
+- Allows image to be taken using the build in camera app and shows it in the ivPostImage image view
